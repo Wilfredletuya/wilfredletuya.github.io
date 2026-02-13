@@ -6,6 +6,6 @@ order: 4
 
 
 Hi I am "Wilfred Letuya". a talented web developer and network security engineer,
--skilled in web application development
--Building android applications
 - Artificial Intentillence.
+- skilled in web application development
+- Building android applications
