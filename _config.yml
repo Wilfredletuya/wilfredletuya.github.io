@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Wilfred letuya" # the main title
+title: Wilfred letuya # the main title
 
-tagline: "Web developer"A text-focused Jekyll theme # it will display as the subtitle
+tagline: Web developer A text-focused Jekyll theme # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 My Journey and Projects in Web design and information security
