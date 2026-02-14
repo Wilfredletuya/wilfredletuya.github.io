@@ -3,63 +3,63 @@ layout: page
 title: Professional Profile
 permalink: /resume/
 ---
-
 ## Professional Profile
 
-You can download my full CV here:  
-**[Download my CV (PDF)](/assets/wilfred-letuya-koros-cv.pdf)**
+I am a passionate web developer with a strong interest in creating responsive, SEO-friendly, and user-friendly websites and digital solutions at affordable costs. I use my skills in HTML, CSS, JavaScript, and modern frameworks to solve real-world problems. I am committed to offering excellent service to customers and contributing to organizations that value innovation and community impact.
 
 ---
 
 ## Academic Background
 
-- **Bachelor of Science in Information Technology**  
+- **Bachelor’s Degree in Information Technology**  
   University of Eldoret  
+
 ---
 
 ## Work Experience
 
-**ICT Intern – Ministry of Education (Lemek Sub-County Office)**  
-- Assisted in network troubleshooting and system maintenance  
-- Supported staff with computer applications and digital services  
-- Helped manage ICT equipment and data records  
+### ICT Intern – Ministry of Education (Sub-County Offices, Lemek)
+- Assisted in network troubleshooting and system support  
+- Supported staff with computer maintenance and software installation  
+- Conducted basic ICT training for users  
 
-**IT Intern – Engineering & Construction Company**  
-- Worked on fiber installations (FTTx), router configuration, and CCTV setup  
-- Assisted with cybersecurity training and software installation  
-- Participated in site safety and technical surveys  
+### Engineering & Construction Company (Internship)
+- Assisted in CCTV installation and configuration  
+- Participated in fiber home connection and router installation  
+- Supported cybersecurity awareness training  
 
 ---
 
-## Certifications & Training
+## Certifications
 
-- CCNA Networking Fundamentals (ongoing)  
-- Cybersecurity & Network Traffic Analysis (TryHackMe / HTB Academy)  
-- Computer Skills Training Facilitator  
-- Virtual Assistant & Digital Skills Training  
+- Computer Networking (CCNA – In Progress)  
+- Cybersecurity Fundamentals  
+- ICT and Digital Literacy Training  
 
 ---
 
 ## Technical Skills
 
 - HTML, CSS, JavaScript  
-- Networking & Network Security  
-- Linux (Kali Linux), Wireshark, Tcpdump  
-- GitHub & Version Control  
-- Microsoft Office & Data Management  
+- Networking & Troubleshooting  
+- Linux (Kali Linux – basic commands)  
+- Packet Tracer & Wireshark  
+- GitHub & Web Hosting  
+- Technical Support & Documentation  
 
 ---
 
-## Soft Skills
+## Core Competencies
 
-- Communication & Teamwork  
 - Problem Solving  
+- Team Collaboration  
+- Communication Skills  
 - Time Management  
-- Community Engagement  
-- Customer Service  
+- Community-Oriented Service Delivery  
 
 ---
 
 ## Career Objective
 
-I am a passionate web developer and IT professional with a strong interest in creating responsive, SEO-friendly, and user-friendly websites and digital solutions. My goal is to contribute to organizations that value innovation and community impact while delivering reliable and affordable digital services.
+My goal is to grow as a professional in web development and networking while contributing to organizations that value innovation, technology, and community impact. I am eager to apply my skills in solving real-world problems and delivering quality digital solutions.
+
