@@ -11,10 +11,10 @@ This section showcases selected networking lab challenges I have completed durin
 
 ---
 
-# 🔹 Lab Challenge 1  
+#  Lab Challenge 1  
 ## Packet Tracer – Build a Switch and Router Network
 
-### 📌 Problem Statement
+###  Problem Statement
 
 The objective of this lab was to design and configure a basic network topology using:
 
@@ -133,7 +133,7 @@ Objectives included:
 
 ---
 
-### 🔎 Key Findings
+###  Key Findings
 
 - HTTP traffic used **Port 80**
 - DNS queries used **Port 53**
@@ -141,7 +141,6 @@ Objectives included:
 - Source and destination ports reversed between request and response
 - Encapsulation process clearly demonstrated TCP/IP model mapping to OSI layers
 
-Example observations:
 
 - Layer 7: HTTP request to server  
 - Layer 4: Destination Port = 80  
@@ -172,6 +171,6 @@ These lab challenges strengthened my:
 - Knowledge of TCP/IP and OSI models  
 - Ability to analyze live protocol communication  
 
-They demonstrate both practical configuration skills and deep protocol-level understanding.
+They demonstrate both practical configuration skills and deep protocol level understanding.
 
 ---
