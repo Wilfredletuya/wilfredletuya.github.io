@@ -3,7 +3,7 @@ layout: page
 title: Professional Profile
 permalink: /resume/
 ---
-## Professional Profile
+## My Resume
 
 I am a passionate web developer with a strong interest in creating responsive, SEO-friendly, and user-friendly websites and digital solutions at affordable costs. I use my skills in HTML, CSS, JavaScript, and modern frameworks to solve real-world problems. I am committed to offering excellent service to customers and contributing to organizations that value innovation and community impact.
 
