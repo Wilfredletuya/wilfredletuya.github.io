@@ -7,8 +7,8 @@ title: Home
 
 <img src="/assets/wilfred.jpg" alt="Wilfred Koros" width="180" style="border-radius:50%; margin-bottom:20px;">
 
-# Wilfred Koros  
-### Web Developer | Digital Solutions Enthusiast
+Wilfred Koros  
+Web Developer | Network security engineer
 
 <p>
 I am a passionate web developer with a strong interest in creating responsive, SEO-friendly, and user-friendly websites and digital solutions at affordable cost.
