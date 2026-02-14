@@ -5,7 +5,7 @@ icon: fas fa-flask
 order: 5
 ---
 
-# 🧪 Lab Challenges
+#  Lab Challenges
 
 This section showcases selected networking lab challenges I have completed during my training and personal learning. Each lab demonstrates practical application of networking concepts, troubleshooting skills, and understanding of protocols.
 
@@ -31,7 +31,7 @@ The goal was to:
 
 ---
 
-### 🛠 Approach
+###  Approach
 
 1. **Cabled the topology** using Packet Tracer.
 2. Initialized the router and switch to default configuration.
@@ -55,7 +55,7 @@ The goal was to:
 
 ---
 
-### 🔧 Tools Used
+###  Tools Used
 
 - Cisco Packet Tracer  
 - Cisco IOS CLI  
@@ -65,7 +65,7 @@ The goal was to:
 
 ---
 
-### 🔎 Key Observations
+###  Key Observations
 
 - Initial pings failed because router interfaces were not yet configured.
 - After enabling routing and assigning correct IP addresses, communication between subnets succeeded.
@@ -77,7 +77,7 @@ The goal was to:
 
 ---
 
-### 💡 Key Lessons Learned
+###  Key Lessons Learned
 
 - Importance of correct default gateway configuration
 - How routers enable Layer 3 communication between subnets
@@ -89,10 +89,10 @@ This lab strengthened my foundational understanding of Cisco routing, switching,
 
 ---
 
-# 🔹 Lab Challenge 2  
+#  Lab Challenge 2  
 ## Packet Tracer – Investigate the TCP/IP and OSI Models in Action
 
-### 📌 Problem Statement
+###  Problem Statement
 
 This lab focused on analyzing real-time network communication using Packet Tracer Simulation Mode.
 
@@ -105,7 +105,7 @@ Objectives included:
 
 ---
 
-### 🛠 Approach
+###  Approach
 
 1. Switched Packet Tracer from Realtime to **Simulation Mode**.
 2. Filtered events to observe HTTP traffic.
@@ -124,7 +124,7 @@ Objectives included:
 
 ---
 
-### 🔧 Tools Used
+###  Tools Used
 
 - Cisco Packet Tracer Simulation Mode  
 - HTTP, DNS, TCP protocol analysis  
@@ -150,7 +150,7 @@ Example observations:
 
 ---
 
-### 💡 Key Lessons Learned
+###  Key Lessons Learned
 
 - Clear understanding of how TCP establishes and closes connections
 - Relationship between OSI model and TCP/IP model
@@ -162,7 +162,7 @@ This lab provided practical insight into how real-world client-server communicat
 
 ---
 
-# 🎯 Overall Learning Impact
+#  Overall Learning Impact
 
 These lab challenges strengthened my:
 
