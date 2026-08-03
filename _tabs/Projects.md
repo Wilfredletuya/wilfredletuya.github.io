@@ -30,7 +30,10 @@ Today, my role extends far beyond maintenance checks and network bandwidth. I re
 
 Kupanda2grow didn't just give me a project to lead. It gave me the platform to turn my oldest dream into a living, daily reality: being genuinely, deeply useful to the people who raised me.
 ****
-Here are some of the projects I have worked on, showcasing my skills in web development, data analysis, and digital solutions.
+## Impact
+
+These projects demonstrate my ability to combine technology, conservation, and digital solutions to solve real-world challenges.
+
 
 ---
 
@@ -72,6 +75,3 @@ HTML • CSS • JavaScript • Responsive design • SEO • Hosting
 
 ---
 
-## Impact
-
-These projects demonstrate my ability to combine technology, conservation, and digital solutions to solve real-world challenges.
