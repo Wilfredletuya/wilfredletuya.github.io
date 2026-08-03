@@ -6,7 +6,7 @@ order: 4
 ---
 
 ## Featured Projects
-Here is my story of how i got the confidence of engaging in projects
+## Here is my story of how i got the confidence of engaging in projects
 
 The urge to be useful was never just an ambition for me; it was a quiet, steady pulse. But like many young graduates stepping out into the world, my enthusiasm collided headfirst with a harsh reality. Armed with a newly minted Information Technology degree and a blank resume, I found myself adrift in a competitive job market that demanded experience I hadn’t yet been given the chance to gain.
 
